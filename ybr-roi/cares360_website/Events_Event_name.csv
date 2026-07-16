@@ -1,0 +1,32 @@
+# ----------------------------------------
+# Events: Event name
+# Account: Nashville CARES
+# Property: Cares360 Clinic
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20251001
+# End date: 20260630
+Event name,Event count,Total users,Event count per active user,Total revenue
+page_view,19746,10989,1.9461856889414548,0
+session_start,13323,10928,1.3285799760670123,0
+first_visit,9813,9423,1.0413880929640242,0
+user_engagement,4214,2343,1.8572058175407669,0
+scroll,2676,1773,1.556719022687609,0
+click,1741,1176,1.4982788296041307,0
+click_appointment,818,640,1.2841444270015698,0
+clicks_page,454,42,10.80952380952381,0
+click_about_topnav,453,275,1.6532846715328466,0
+click_services_topnav,339,237,1.4364406779661016,0
+click_contact,280,244,1.1475409836065573,0
+click_patient_portal,252,220,1.172093023255814,0
+click_about_footer,191,68,2.8507462686567164,0
+click_insurance_topnav,136,99,1.3737373737373737,0
+click_contact_topnav,133,121,1.1083333333333334,0
+click_call,111,85,1.3703703703703705,0
+click_services_footer,69,65,1.0952380952380953,0
+click_insurance_footer,39,39,1,0
+ABOUT,32,13,2.4615384615384617,0
+click_contact_footer,8,7,1.1428571428571428,0
+About,4,3,1.3333333333333333,0
+click_giving_matters,3,3,1,0

@@ -1,0 +1,194 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e4] [cursor=pointer]:
+    - /url: "#tm-main"
+  - generic [ref=e5]:
+    - generic [ref=e9]:
+      - generic [ref=e10]: Memphis-area residents, check out our new location!
+      - generic [ref=e12]:
+        - text: "Memphis: call"
+        - link "901-896-0739" [ref=e13] [cursor=pointer]:
+          - /url: tel:901-896-0739
+        - link "Nashville Patient Portal" [ref=e14] [cursor=pointer]:
+          - /url: https://25571.portal.athenahealth.com/
+        - link "Nashville Appointments" [ref=e15] [cursor=pointer]:
+          - /url: https://phreesia.me/NashvilleCARESLink
+    - banner [ref=e16]:
+      - navigation [ref=e20]:
+        - link "Back to home" [ref=e22] [cursor=pointer]:
+          - /url: https://cares360.org/
+          - img "Cares360" [ref=e23]
+        - list [ref=e25]:
+          - listitem [ref=e26]:
+            - link "Home" [ref=e27] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e28]:
+            - link "About" [ref=e29] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=e30]:
+            - link "Services" [ref=e31] [cursor=pointer]:
+              - /url: /services
+          - listitem [ref=e32]:
+            - link "Insurance" [ref=e33] [cursor=pointer]:
+              - /url: /insurance
+          - listitem [ref=e34]:
+            - link "Contact Us" [ref=e35] [cursor=pointer]:
+              - /url: https://nashvillecares.jotform.com/251754258816061
+    - main [ref=e36]:
+      - generic [ref=e40]:
+        - generic [ref=e42]:
+          - heading "World-class HIV care, now in Memphis too." [level=1] [ref=e43]
+          - generic [ref=e44]:
+            - paragraph [ref=e45]: We’re excited to introduce a new CARES 360 Community Clinic location at Friends For All in Memphis. Nashville CARES and Friends For All have enjoyed a close working relationship for nearly 40 years. We share the same mission, and embrace the same values. Now we’re teaming up to expand clinic capacity and access in response to growing needs.
+            - generic [ref=e46]:
+              - text: "Memphis patients and clients: our top priority is to ensure a smooth transition for you."
+              - strong [ref=e47]: Your care team, case manager, appointments and prescriptions will all continue as scheduled.
+            - generic [ref=e49]:
+              - text: Remember,
+              - strong [ref=e50]: please keep all scheduled appointments.
+              - text: If you have questions about appointments or prescriptions, call 901-896-0739 during business hours. As always, we’re here for you.
+          - generic [ref=e52]:
+            - link "Contact Us" [ref=e54] [cursor=pointer]:
+              - /url: https://nashvillecares.jotform.com/251754258816061
+            - link "View Services" [ref=e56] [cursor=pointer]:
+              - /url: /services
+        - img "stylized photo collage in shape of circular ribbon" [ref=e60]
+      - heading "\"I’m proud to say that I am currently undetectable, and the healthiest I’ve been in a very long time. I have CARES to thank for that – they treated all of me, not just my illness.\" -Saron" [level=2] [ref=e65]: "\"I’m proud to say that I am currently undetectable, and the healthiest I’ve been in a very long time. I have CARES to thank for that – they treated all of me, not just my illness.\"-Saron"
+      - generic [ref=e68]:
+        - generic [ref=e71]:
+          - heading "From testing and prevention to psychiatry, weight management and more." [level=2] [ref=e72]
+          - paragraph [ref=e74]: No matter who you are, your health needs will continue to evolve over time – that’s one part of the human experience we all share. CARES 360 provides safe, trusted access to the support you need along each step of your health journey.
+          - link "View All Services" [ref=e76] [cursor=pointer]:
+            - /url: /services
+        - generic [ref=e80]:
+          - generic [ref=e82]:
+            - img "water drop with plus sign icon" [ref=e83]
+            - heading "HIV Testing & Care" [level=3] [ref=e84]
+            - generic [ref=e85]: We offer rapid HIV testing. Our goal is to initiate antiretroviral therapy within 72 hours of a positive test result.
+          - generic [ref=e87]:
+            - img "vial icon" [ref=e88]
+            - heading "STD Testing & Care" [level=3] [ref=e89]
+            - generic [ref=e90]: If you’re sexually active, regular testing can play an important role in keeping you healthy. We’re here to help.
+          - generic [ref=e92]:
+            - img "microscope icon" [ref=e93]
+            - heading "Hepatitis C Testing & Care" [level=3] [ref=e94]
+            - generic [ref=e95]: Many people infected with HEP C don’t actually feel or look sick. If you’ve shared or reused a syringe, get tested now.
+          - generic [ref=e97]:
+            - img "heart icon with heart beat" [ref=e98]
+            - heading "Lifelong Wellness" [level=3] [ref=e99]
+            - generic [ref=e100]: We welcome the LGBTQ+ community with open arms. But CARES 360 is for anyone seeking healthcare delivered with empathy and love.
+      - generic [ref=e104]:
+        - heading "Where compassion meets expertise." [level=2] [ref=e105]
+        - paragraph [ref=e107]: The CARES team has seen the fight against HIV intersect with battles for racial justice, LGBTQIA+ rights, economic equity and mental health. Each of us is proud to be lending our talents and strengths to a mission worth embracing.
+        - img "Nashville Cares staff group" [ref=e109]
+        - link "Learn More" [ref=e111] [cursor=pointer]:
+          - /url: /about
+      - generic [ref=e116]:
+        - heading "We’re all in this together." [level=3] [ref=e117]
+        - generic [ref=e118]: The CARES team has seen the fight against HIV intersect with battles for racial justice, LGBTQIA+ rights, economic equity and mental health. Each of us is proud to be lending our talents and strengths to a mission worth embracing.
+        - generic [ref=e120]:
+          - link "Donate" [ref=e122] [cursor=pointer]:
+            - /url: https://crm.bloomerang.co/HostedDonation?ApiKey=pub_08a00837-fb0c-11e7-94a1-0a7fa948a058&WidgetId=11401216
+          - link "Volunteer" [ref=e124] [cursor=pointer]:
+            - /url: https://www.nashvillecares.org/volunteer-opportunities/
+    - contentinfo [ref=e125]:
+      - generic [ref=e128]:
+        - generic [ref=e129]: The first step? Set up an appointment.
+        - 'link "Memphis: Call 901-896-0739" [ref=e133] [cursor=pointer]':
+          - /url: tel:901-896-0739
+        - link "Nashville Appointments" [ref=e136] [cursor=pointer]:
+          - /url: https://phreesia.me/NashvilleCARESLink
+      - generic [ref=e138]:
+        - generic [ref=e140]:
+          - heading "Nashville CARES" [level=4] [ref=e141]
+          - generic [ref=e142]: Nashville CARES has been serving Tennessee for 40 years. This organization’s groundbreaking work laid the foundation for CARES 360.
+          - link "Visit Nashville CARES" [ref=e144] [cursor=pointer]:
+            - /url: https://pride.nashvillecares.org/
+        - generic [ref=e147]:
+          - list [ref=e149]:
+            - listitem [ref=e150]:
+              - link "Home" [ref=e152] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e153]:
+              - link "About" [ref=e155] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e156]:
+              - link "Services" [ref=e158] [cursor=pointer]:
+                - /url: /services
+            - listitem [ref=e159]:
+              - link "Insurance" [ref=e161] [cursor=pointer]:
+                - /url: /insurance
+            - listitem [ref=e162]:
+              - link "Privacy Policy" [ref=e164] [cursor=pointer]:
+                - /url: /privacy-policy
+            - listitem [ref=e165]:
+              - link "Site Map" [ref=e167] [cursor=pointer]:
+                - /url: /sitemap
+          - generic [ref=e168]:
+            - heading "Support Us" [level=3] [ref=e169]
+            - list [ref=e170]:
+              - listitem [ref=e171]:
+                - link "Donate" [ref=e173] [cursor=pointer]:
+                  - /url: https://crm.bloomerang.co/HostedDonation?ApiKey=pub_08a00837-fb0c-11e7-94a1-0a7fa948a058&WidgetId=11401216
+              - listitem [ref=e174]:
+                - link "Volunteer" [ref=e176] [cursor=pointer]:
+                  - /url: https://www.nashvillecares.org/volunteer-opportunities/
+          - generic [ref=e177]:
+            - heading "Locations" [level=3] [ref=e178]
+            - paragraph [ref=e180]:
+              - strong [ref=e181]: Nashville
+              - text: Phone
+              - link "615-499-7406" [ref=e182] [cursor=pointer]:
+                - /url: tel:615-499-7406
+              - text: Fax 833-968-2944
+              - link "633 Thompson Lane, Nashville, TN 37204" [ref=e183] [cursor=pointer]:
+                - /url: https://maps.app.goo.gl/4XPbgPfk1syhn4Ae7
+              - text: "Monday to Friday: 9 am - 4:30 pmClosed for lunch from 12-1 pm"
+          - generic [ref=e184]:
+            - heading [level=3] [ref=e185]
+            - paragraph [ref=e187]:
+              - strong [ref=e188]: Memphis
+              - text: Phone
+              - link "901-896-0739" [ref=e189] [cursor=pointer]:
+                - /url: tel:901-896-0739
+              - text: Fax 844-689-5204
+              - link "806 Cooper St, Memphis, TN 38104" [ref=e190] [cursor=pointer]:
+                - /url: https://maps.app.goo.gl/5fxeTuanEAUbBzFm8
+              - text: Monday to Tuesday 12 pm – 8 pmWednesday to Friday 8 am – 4 pm
+          - generic [ref=e191]:
+            - heading [level=3] [ref=e192]:
+              - link "Contact" [ref=e193] [cursor=pointer]:
+                - /url: https://nashvillecares.jotform.com/251754258816061
+            - link "615-499-7406" [ref=e195] [cursor=pointer]:
+              - /url: tel:615-499-7406
+            - link [ref=e197] [cursor=pointer]:
+              - /url: mailto:email@example.com
+              - link "info@nashvillecares.org" [ref=e199]:
+                - /url: mailto:info@nashvillecares.org
+            - list [ref=e201]:
+              - listitem [ref=e202]:
+                - link [ref=e203] [cursor=pointer]:
+                  - /url: https://www.instagram.com/nashvillecares/
+              - listitem [ref=e209]:
+                - link [ref=e210] [cursor=pointer]:
+                  - /url: https://www.facebook.com/NashCARES/
+              - listitem [ref=e214]:
+                - link [ref=e215] [cursor=pointer]:
+                  - /url: https://twitter.com/nashvillecares
+              - listitem [ref=e219]:
+                - link [ref=e220] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/nashville-cares/mycompany
+              - listitem [ref=e225]:
+                - link [ref=e226] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@nashvillecares138
+      - generic [ref=e232]:
+        - generic [ref=e233]:
+          - generic [ref=e234]: This site contains HIV prevention messages that may not be appropriate for all audiences. If you are not seeking such information or may be offended by such materials, please exit this website.
+          - generic [ref=e235]:
+            - text: ©
+            - time [ref=e236]: "2026"
+            - text: CARES 360. All rights reserved.
+        - generic [ref=e238]:
+          - text: Site By
+          - link "The Roster" [ref=e239] [cursor=pointer]:
+            - /url: https://theroster.agency/
+          - text: .

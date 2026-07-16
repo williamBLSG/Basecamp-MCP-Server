@@ -1,0 +1,119 @@
+# ----------------------------------------
+# User acquisition: First user primary channel group (Default Channel Group)
+# Account: Nashville CARES
+# Property: Cares360 Clinic
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20251001
+# End date: 20260630
+First user primary channel group (Default Channel Group),Event name,Total users,New users,Returning users,Average engagement time per active user,Engaged sessions per active user,Event count,Key events,User key event rate
+Paid Social,page_view,5384,0,502,0,0,9194,0,0
+Paid Social,session_start,5381,0,502,0,0,6524,0,0
+Paid Social,first_visit,4638,4785,5,0,0,4785,0,0
+Direct,page_view,3158,0,370,0.32829150910965965,0.0006875214850464077,5563,0,0
+Direct,session_start,3087,0,357,0,0.0007173601147776184,3829,0,0
+Direct,first_visit,2556,2697,7,0,0.000782472613458529,2697,0,0
+Organic Search,page_view,1430,0,191,0,0,3154,0,0
+Organic Search,session_start,1425,0,227,0,0,1696,0,0
+Organic Search,first_visit,1252,1273,6,0,0,1273,0,0
+Organic Search,user_engagement,901,0,141,31.5,0,1640,0,0
+Direct,scroll,882,0,174,13.317801672640382,0.0023894862604540022,1382,0,0
+Referral,page_view,869,0,64,0,0,1557,0,0
+Referral,session_start,868,0,91,0,0,1039,0,0
+Direct,user_engagement,848,0,221,31.746514575411915,0.0012674271229404308,1611,0,0
+Referral,first_visit,812,825,3,0,0,825,0,0
+Organic Search,scroll,522,0,86,39.43436293436294,0,792,0,0
+Organic Search,click,510,0,83,4.482352941176471,0,658,0,0
+Direct,click,369,0,106,5.630985915492958,0,632,0,0
+Referral,user_engagement,327,0,74,31.773291925465838,0,606,0,0
+Direct,click_appointment,238,0,69,12.97872340425532,0,325,325,1
+Organic Search,click_appointment,231,0,31,20.00865800865801,0,280,280,1
+Referral,scroll,230,0,36,24.47136563876652,0,341,0,0
+Paid Social,user_engagement,217,0,35,37.50697674418605,0,298,0,0
+Organic Social,first_visit,196,200,0,0,0,200,0,0
+Organic Social,page_view,196,0,0,0,0,225,0,0
+Organic Social,session_start,196,0,0,0,0,200,0,0
+Referral,click,188,0,33,5.670212765957447,0,295,0,0
+Direct,click_about_topnav,125,0,89,13.89516129032258,0,241,0,0
+Organic Search,click_contact,122,0,17,19.565573770491802,0,132,132,1
+Paid Social,scroll,119,0,22,3.6495726495726495,0,137,0,0
+Referral,click_appointment,115,0,14,16.991304347826087,0,144,144,1
+Organic Search,click_patient_portal,103,0,28,11.563106796116505,0,118,118,1
+Direct,click_services_topnav,94,0,52,14.774193548387096,0,159,0,0
+Organic Search,click_about_topnav,92,0,24,25.27173913043478,0,128,0,0
+Paid Social,click,85,0,14,0.5882352941176471,0,124,0,0
+Organic Search,click_services_topnav,80,0,15,19.8875,0,97,0,0
+Direct,click_patient_portal,65,0,22,15.383333333333333,0,77,74,1
+Referral,click_services_topnav,63,0,11,18.61904761904762,0,83,0,0
+Direct,click_contact,58,0,17,18.637931034482758,0,67,67,1
+Referral,click_about_topnav,57,0,14,18.842105263157894,0,83,0,0
+Organic Search,click_contact_topnav,52,0,17,17.153846153846153,0,56,0,0
+Direct,click_insurance_topnav,50,0,25,22.46,0,81,0,0
+Direct,click_contact_topnav,43,0,21,9.261904761904763,0,50,0,0
+Paid Social,click_appointment,39,0,8,10.743589743589743,0,49,49,1
+Organic Social,user_engagement,37,0,0,6.72972972972973,0,41,0,0
+Referral,click_contact,35,0,9,32.51428571428571,0,41,41,1
+Organic Search,click_about_footer,33,0,5,10.272727272727273,0,36,0,0
+Organic Search,click_call,33,0,9,19.90909090909091,0,44,44,1
+Referral,click_insurance_topnav,32,0,5,21.125,0,38,0,0
+Organic Search,click_services_footer,31,0,0,32.096774193548384,0,31,0,0
+Referral,click_patient_portal,29,0,6,12.310344827586206,0,30,30,1
+Paid Social,click_contact,26,0,5,8.26923076923077,0,35,35,1
+Referral,click_contact_topnav,26,0,8,17,0,27,0,0
+Direct,click_about_footer,23,0,9,12.181818181818182,0,93,0,0
+Paid Social,click_patient_portal,23,0,3,2.652173913043478,0,27,27,1
+Unassigned,page_view,23,0,1,0,0,41,0,0
+Unassigned,session_start,23,0,1,0,0,27,0,0
+Direct,click_call,22,0,7,37.77777777777778,0,36,36,1
+Paid Social,click_call,22,0,3,6.818181818181818,0,22,22,1
+Unassigned,first_visit,22,25,0,0,0,25,0,0
+Organic Search,click_insurance_footer,20,0,1,22.5,0,20,0,0
+Direct,click_services_footer,18,0,5,13.0625,0,21,0,0
+Organic Search,click_insurance_topnav,16,0,1,15.625,0,16,0,0
+Organic Search,clicks_page,16,0,1,46.25,0,59,0,0
+Organic Social,scroll,16,0,0,10.3125,0,19,0,0
+Direct,clicks_page,15,0,8,82.66666666666667,0,201,0,0
+Referral,click_services_footer,12,0,2,11.166666666666666,0,13,0,0
+Referral,click_about_footer,11,0,4,8.363636363636363,0,61,0,0
+Referral,click_insurance_footer,11,0,2,17.454545454545453,0,11,0,0
+Unassigned,click,11,0,1,0,0,16,0,0
+Unassigned,user_engagement,11,0,0,16.3,0,14,0,0
+Organic Social,click,10,0,0,5.2,0,12,0,0
+Direct,ABOUT,9,0,5,9,0,18,0,0
+Unassigned,click_appointment,9,0,0,18.333333333333332,0,11,11,1
+Referral,clicks_page,8,0,6,113,0,189,0,0
+Direct,click_insurance_footer,6,0,2,8.833333333333334,0,6,0,0
+Referral,click_call,6,0,4,1.3333333333333333,0,7,7,1
+AI Assistant,first_visit,5,6,0,0,0,6,0,0
+AI Assistant,page_view,5,0,0,0,0,10,0,0
+AI Assistant,session_start,5,0,0,0,0,6,0,0
+Organic Social,click_appointment,5,0,0,5.8,0,5,5,1
+Direct,click_contact_footer,4,0,2,61.5,0,5,5,1
+AI Assistant,click,3,0,0,0,0,4,0,0
+AI Assistant,click_appointment,3,0,0,12.333333333333334,0,4,4,1
+Direct,click_giving_matters,3,0,0,79,0,3,0,0
+Organic Social,clicks_page,3,0,0,0.6666666666666666,0,5,0,0
+Unassigned,click_contact,3,0,1,37.666666666666664,0,5,5,1
+Unassigned,scroll,3,0,0,20.333333333333332,0,4,0,0
+AI Assistant,user_engagement,2,0,0,40.5,0,4,0,0
+Email,first_visit,2,2,0,0,0,2,0,0
+Email,page_view,2,0,0,0,0,2,0,0
+Email,session_start,2,0,0,0,0,2,0,0
+Organic Search,ABOUT,2,0,0,12.5,0,4,0,0
+Organic Search,click_contact_footer,2,0,1,24,0,2,2,1
+Organic Social,click_insurance_footer,2,0,0,14,0,2,0,0
+Paid Social,click_services_footer,2,0,0,9.5,0,2,0,0
+Referral,ABOUT,2,0,1,15.5,0,10,0,0
+AI Assistant,scroll,1,0,0,7,0,1,0,0
+Direct,About,1,0,1,2,0,2,0,0
+Organic Search,About,1,0,1,2,0,1,0,0
+Organic Social,click_about_footer,1,0,0,59,0,1,0,0
+Organic Social,click_about_topnav,1,0,0,5,0,1,0,0
+Organic Social,click_call,1,0,0,3,0,1,1,1
+Organic Social,click_services_footer,1,0,0,13,0,1,0,0
+Referral,About,1,0,1,0,0,1,0,0
+Referral,click_contact_footer,1,0,1,1,0,1,1,1
+Unassigned,click_call,1,0,0,6,0,1,1,1
+Unassigned,click_insurance_topnav,1,0,0,2,0,1,0,0
+Unassigned,click_services_footer,1,0,0,35,0,1,0,0

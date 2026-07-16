@@ -1,0 +1,298 @@
+- generic [active] [ref=f6e1]:
+  - link "Skip to main content" [ref=f6e4] [cursor=pointer]:
+    - /url: "#tm-main"
+  - generic [ref=f6e5]:
+    - generic [ref=f6e9]:
+      - generic [ref=f6e10]: Memphis-area residents, check out our new location!
+      - generic [ref=f6e12]:
+        - text: "Memphis: call"
+        - link "901-896-0739" [ref=f6e13] [cursor=pointer]:
+          - /url: tel:901-896-0739
+        - link "Nashville Patient Portal" [ref=f6e14] [cursor=pointer]:
+          - /url: https://25571.portal.athenahealth.com/
+        - link "Nashville Appointments" [ref=f6e15] [cursor=pointer]:
+          - /url: https://phreesia.me/NashvilleCARESLink
+    - banner [ref=f6e16]:
+      - navigation [ref=f6e20]:
+        - link "Back to home" [ref=f6e22] [cursor=pointer]:
+          - /url: https://cares360.org/
+          - img "Cares360" [ref=f6e23]
+        - list [ref=f6e25]:
+          - listitem [ref=f6e26]:
+            - link "Home" [ref=f6e27] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f6e28]:
+            - link "About" [ref=f6e29] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=f6e30]:
+            - link "Services" [ref=f6e31] [cursor=pointer]:
+              - /url: /services
+          - listitem [ref=f6e32]:
+            - link "Insurance" [ref=f6e33] [cursor=pointer]:
+              - /url: /insurance
+          - listitem [ref=f6e34]:
+            - link "Contact Us" [ref=f6e35] [cursor=pointer]:
+              - /url: https://nashvillecares.jotform.com/251754258816061
+    - main [ref=f6e36]:
+      - generic [ref=f6e40]:
+        - generic:
+          - img "stylized photo collage"
+        - 'heading "CARES 360 Community Clinic: A natural evolution." [level=1] [ref=f6e41]': CARES 360 Community Clinic:A natural evolution.
+        - generic [ref=f6e42]:
+          - paragraph [ref=f6e43]: "In 1985, Nashville CARES began with a mission born out of urgency, compassion and grit: to care for our neighbors living with HIV, and to fight the surrounding stigma. Over the years, that mission has grown into a movement. We've evolved from crisis responders to leaders in public health, equity and innovation."
+          - paragraph [ref=f6e44]: As the scope of our mission continued to expand, it became clear that this life-changing work would be even more effective if we could reimagine our clinic as a separate (but closely related) entity. By establishing CARES 360 as a full-service health equity provider, the CARES family is already setting a new standard for inclusive, community-based healthcare.
+          - paragraph [ref=f6e45]: CARES 360 now provides dignity, acceptance and unwavering care from convenient locations in Nashville and Memphis. Our goal is continue expanding both clinic capacity and patient access in response to our state’s growing needs.
+          - generic [ref=f6e46]: But this evolution isn’t just about us. It’s about everyone who believes that empathy-based healthcare is a right, not a privilege. It’s about building a Tennessee where no one slips through the cracks. Where dignity leads the way. Where whole-person care makes the whole community stronger.
+          - paragraph [ref=f6e48]: It’s about you.
+        - link "Contact Us" [ref=f6e50] [cursor=pointer]:
+          - /url: https://nashvillecares.jotform.com/251754258816061
+      - generic [ref=f6e53]:
+        - generic [ref=f6e54]:
+          - img "blue heart icon" [ref=f6e57]
+          - generic [ref=f6e58]: 40+ years of service
+        - generic [ref=f6e59]:
+          - img "multiple users icon" [ref=f6e61]
+          - generic [ref=f6e62]: 20,000+ served annually
+        - generic [ref=f6e63]:
+          - img "location pin icon" [ref=f6e65]
+          - generic [ref=f6e66]: 17 Mid-TN Counties
+      - generic [ref=f6e70]:
+        - heading "The power of community begins with each of us." [level=2] [ref=f6e71]
+        - paragraph [ref=f6e73]:
+          - text: In support of our mission and vision, our actions are guided, supported and measured by our values. For more details (including financials), see our listing at
+          - strong [ref=f6e74]:
+            - link "www.givingmatters.com" [ref=f6e75] [cursor=pointer]:
+              - /url: https://www.givingmatters.com
+          - text: .
+        - generic [ref=f6e77]:
+          - generic [ref=f6e79]:
+            - img "heart icon" [ref=f6e80]
+            - heading "Demonstrate Passion" [level=3] [ref=f6e81]
+            - generic [ref=f6e82]: This is more than a job – it’s a mission.
+          - generic [ref=f6e84]:
+            - img "sunrise icon" [ref=f6e85]
+            - heading "Do what’s right" [level=3] [ref=f6e86]
+            - generic [ref=f6e87]: There’s no wrong time for doing the right thing.
+          - generic [ref=f6e89]:
+            - img "multiple stars icon" [ref=f6e90]
+            - heading "Act with integrity" [level=3] [ref=f6e91]
+            - generic [ref=f6e92]: Extend empathy and kindness to every person.
+      - generic [ref=f6e94]:
+        - heading "Leading With Excellence & Love" [level=2] [ref=f6e97]
+        - generic [ref=f6e98]:
+          - img "Dr. Kassem Bourgi headshot" [ref=f6e101]
+          - generic [ref=f6e102]:
+            - heading "Kassem Bourgi, M.D." [level=3] [ref=f6e103]
+            - generic [ref=f6e104]: Medical Director
+            - generic [ref=f6e105]: With an MD from the American University of Beirut and extensive training in Infectious Diseases from Vanderbilt University, Kassem has honed a patient-centric approach to healthcare, clinical research and medical education serving diverse populations. He is deeply committed to advancing HIV treatment and public health, and has directed multiple funded HIV research projects, including serving as a Primary Investigator for several industry-funded clinical trials. His expertise encompasses spearheading local, regional and national HIV educational initiatives, along with providing training and medical education for students, residents and fellows. Kassem has been invited to speak and share his research findings at several national and international HIV conferences.
+            - link "LinkedIn" [ref=f6e107] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/kassem-bourgi-804a17b9/
+            - link "Schedule an appointment with Dr. Bourgi Today" [ref=f6e109] [cursor=pointer]:
+              - /url: https://phreesia.me/NashvilleCARESLink
+        - generic [ref=f6e110]:
+          - generic [ref=f6e111]:
+            - heading "Amna Osman, MPA" [level=3] [ref=f6e112]
+            - generic [ref=f6e113]: Chief Executive Officer
+            - generic [ref=f6e114]: Amna has 24 years of experience as a public health innovator and executive leader, with an extensive background in all aspects of leadership and management. Prior to her current role, she was President and CEO at HAVEN, a domestic and sexual violence nonprofit in the Greater Detroit Area. She is Founder and President of Osman Consulting in Grand Blanc, Michigan, where she provided leadership development both in the U.S. and overseas. Amna served as the Director of the Division of Health, Wellness, and Disease Control for Michigan Department of Community Health, where she oversaw the division which covers Health Disparities Reduction/Minority Health, Sexually Transmitted Diseases, HIV/AIDS Prevention Education, Care and Treatment, as well as the AIDS Drug Assistance Program and HIV/AIDS Oral Health Program.
+            - link "LinkedIn" [ref=f6e116] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/amna-osman-b64b1151/
+          - img "Amna Osman headshot" [ref=f6e120]
+        - generic [ref=f6e121]:
+          - img "Daveisha Moore Eberhardt headshot" [ref=f6e124]
+          - generic [ref=f6e125]:
+            - heading "Daveisha Moore Eberhardt" [level=3] [ref=f6e126]
+            - generic [ref=f6e127]: Medical Practice Manager - Nashville
+            - generic [ref=f6e128]: Daveisha has spent 15+ years as a healthcare operations leader. She has a deep passion for improving patient outcomes, which she has accomplished by leading positive change, building high-performance teams, coaching healthcare leaders and generating results. She’s adept at shaping strategy and driving care delivery while driving growth, profitability and resolving complex challenges. Prior to joining CARES 360, Daveisha served as VP of Clinical Operations and then VP of Provider Operations at Peregrine Health. Before that, she was Regional Manager, State Policy and Advocacy for Susan G. Komen. She also served as a Legislative Assistant for the State of Tennessee, reporting to the House Health and Human Resources Committee Chairman and President-Elect of the National Black Caucus of States Legislatures.
+            - link "LinkedIn" [ref=f6e130] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/daveisha-moore-15640b49/
+        - generic [ref=f6e131]:
+          - generic [ref=f6e132]:
+            - heading "Julia Watson" [level=3] [ref=f6e133]
+            - generic [ref=f6e134]: Director of Practice Operations - Memphis
+            - generic [ref=f6e136]:
+              - paragraph [ref=f6e137]: Julia leads our Memphis clinic operations, and is responsible for strategic initiatives that strengthen access to high-quality care for underserved communities. She brings extensive experience in clinical administration, revenue cycle management and regulatory compliance.
+              - paragraph [ref=f6e138]: Julia also has deep expertise in Ryan White program administration, 340B compliance and healthcare revenue cycle management. Throughout her career, she has led complex initiatives to maximize efficiency and accountability. She’s known for her strategic thinking, systems-oriented approach and strong investment in staff development.
+              - paragraph [ref=f6e139]: Julia’s work is rooted in the belief that strong systems and supported teams are essential to delivering equitable, compassionate healthcare. She remains dedicated to strengthening infrastructure in ways that allow our clinic to serve communities with dignity, access and excellence.
+            - link "LinkedIn" [ref=f6e141] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/julia-watson-56659b309/
+          - img "Daveisha Moore Eberhardt headshot" [ref=f6e145]
+      - generic [ref=f6e149]:
+        - heading "Meet our clinic staff." [level=2] [ref=f6e150]
+        - heading "Providers" [level=3] [ref=f6e151]
+        - generic [ref=f6e153]:
+          - generic [ref=f6e155]:
+            - img "Rachel Davis headshot" [ref=f6e156]
+            - heading "Rachel Davis, PA-C" [level=3] [ref=f6e157]
+            - generic [ref=f6e158]:
+              - paragraph [ref=f6e159]: Lead Physician Assistant - Nashville
+              - paragraph [ref=f6e160]:
+                - button "Read More & Schedule Appointment" [ref=f6e161] [cursor=pointer]
+          - generic [ref=f6e163]:
+            - img "Zach Campbell headshot" [ref=f6e164]
+            - heading "Zach Campbell, RN, AGPCNP-C" [level=3] [ref=f6e165]
+            - generic [ref=f6e166]:
+              - paragraph [ref=f6e167]: Nurse Practitioner - Nashville
+              - button "Read More & Schedule Appointment" [ref=f6e168] [cursor=pointer]
+          - generic [ref=f6e170]:
+            - img "Dr Jewyl Gibson headshot" [ref=f6e171]
+            - heading "Jewyl Gibson, DNP, FNP-BC, PMHNP-BC" [level=3] [ref=f6e172]
+            - generic [ref=f6e173]:
+              - generic [ref=f6e174]: Psychiatric Nurse Practitioner - Nashville
+              - button "Read More & Schedule Appointment" [ref=f6e175] [cursor=pointer]
+          - generic [ref=f6e177]:
+            - img "Glenda Mosesheadshot" [ref=f6e179]
+            - heading "Dr. Glenda Wright Moses, DNP, APRN-BC, SANE-A" [level=3] [ref=f6e180]
+            - generic [ref=f6e181]:
+              - paragraph [ref=f6e182]: Nurse Practitioner - Memphis
+              - paragraph [ref=f6e183]:
+                - button "Read More" [ref=f6e184] [cursor=pointer]
+          - generic [ref=f6e186]:
+            - img "Dr Jewyl Gibson headshot" [ref=f6e188]
+            - heading "Dr. Ramona Moore, DNP, APRN, FNP-C" [level=3] [ref=f6e189]
+            - generic [ref=f6e190]:
+              - generic [ref=f6e191]: Nurse Practitioner and Lead Clinician - Memphis
+              - paragraph [ref=f6e192]:
+                - button "Read More" [ref=f6e193] [cursor=pointer]
+        - heading "Nurses" [level=3] [ref=f6e194]
+        - generic [ref=f6e196]:
+          - generic [ref=f6e198]:
+            - img "Amy Fisher headshot" [ref=f6e200]
+            - heading "Amy Fisher, RN" [level=3] [ref=f6e201]
+            - generic [ref=f6e202]:
+              - generic [ref=f6e203]: Clinic RN- HIV Engagement and Retention in Care Specialist - Nashville
+              - button "Read More" [ref=f6e204] [cursor=pointer]
+          - generic [ref=f6e206]:
+            - img "Leslie Reese headshot" [ref=f6e208]
+            - heading "Leslie Reese, RN" [level=3] [ref=f6e209]
+            - generic [ref=f6e210]:
+              - generic [ref=f6e211]: Clinic RN- HIV Engagement and Retention in Care Specialist - Nashville
+              - button "Read More" [ref=f6e212] [cursor=pointer]
+        - heading "Support Staff" [level=3] [ref=f6e213]
+        - generic [ref=f6e215]:
+          - generic [ref=f6e217]:
+            - img "Tamarian Johnson headshot" [ref=f6e219]
+            - heading "Tamarian Johnson, CMA" [level=3] [ref=f6e220]
+            - generic [ref=f6e221]:
+              - generic [ref=f6e222]: Certified Medical Assistant - Memphis
+              - paragraph [ref=f6e223]:
+                - button "Read More" [ref=f6e224] [cursor=pointer]
+          - generic [ref=f6e226]:
+            - img "Elizabeth S headshot" [ref=f6e227]
+            - heading "Elizabeth S" [level=3] [ref=f6e228]
+            - generic [ref=f6e229]:
+              - paragraph [ref=f6e230]: Patient Care Lead and Medical Assistant - Nashville
+              - button "Read More" [ref=f6e231] [cursor=pointer]
+          - generic [ref=f6e233]:
+            - img "Abby H headshot" [ref=f6e234]
+            - heading "Abby H, CCMA" [level=3] [ref=f6e235]
+            - generic [ref=f6e236]:
+              - paragraph [ref=f6e237]: Medical Assistant - Nashville
+              - button "Read More" [ref=f6e238] [cursor=pointer]
+          - generic [ref=f6e240]:
+            - img "Abby H headshot" [ref=f6e242]
+            - heading "Silvia Perez-Escobar" [level=3] [ref=f6e243]
+            - generic [ref=f6e244]:
+              - paragraph [ref=f6e245]: Medical Receptionist
+              - button "Read More" [ref=f6e246] [cursor=pointer]
+    - contentinfo [ref=f6e248]:
+      - generic [ref=f6e251]:
+        - generic [ref=f6e252]: The first step? Set up an appointment.
+        - 'link "Memphis: Call 901-896-0739" [ref=f6e256] [cursor=pointer]':
+          - /url: tel:901-896-0739
+        - link "Nashville Appointments" [ref=f6e259] [cursor=pointer]:
+          - /url: https://phreesia.me/NashvilleCARESLink
+      - generic [ref=f6e261]:
+        - generic [ref=f6e263]:
+          - heading "Nashville CARES" [level=4] [ref=f6e264]
+          - generic [ref=f6e265]: Nashville CARES has been serving Tennessee for 40 years. This organization’s groundbreaking work laid the foundation for CARES 360.
+          - link "Visit Nashville CARES" [ref=f6e267] [cursor=pointer]:
+            - /url: https://pride.nashvillecares.org/
+        - generic [ref=f6e270]:
+          - list [ref=f6e272]:
+            - listitem [ref=f6e273]:
+              - link "Home" [ref=f6e275] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f6e276]:
+              - link "About" [ref=f6e278] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=f6e279]:
+              - link "Services" [ref=f6e281] [cursor=pointer]:
+                - /url: /services
+            - listitem [ref=f6e282]:
+              - link "Insurance" [ref=f6e284] [cursor=pointer]:
+                - /url: /insurance
+            - listitem [ref=f6e285]:
+              - link "Privacy Policy" [ref=f6e287] [cursor=pointer]:
+                - /url: /privacy-policy
+            - listitem [ref=f6e288]:
+              - link "Site Map" [ref=f6e290] [cursor=pointer]:
+                - /url: /sitemap
+          - generic [ref=f6e291]:
+            - heading "Support Us" [level=3] [ref=f6e292]
+            - list [ref=f6e293]:
+              - listitem [ref=f6e294]:
+                - link "Donate" [ref=f6e296] [cursor=pointer]:
+                  - /url: https://crm.bloomerang.co/HostedDonation?ApiKey=pub_08a00837-fb0c-11e7-94a1-0a7fa948a058&WidgetId=11401216
+              - listitem [ref=f6e297]:
+                - link "Volunteer" [ref=f6e299] [cursor=pointer]:
+                  - /url: https://www.nashvillecares.org/volunteer-opportunities/
+          - generic [ref=f6e300]:
+            - heading "Locations" [level=3] [ref=f6e301]
+            - paragraph [ref=f6e303]:
+              - strong [ref=f6e304]: Nashville
+              - text: Phone
+              - link "615-499-7406" [ref=f6e305] [cursor=pointer]:
+                - /url: tel:615-499-7406
+              - text: Fax 833-968-2944
+              - link "633 Thompson Lane, Nashville, TN 37204" [ref=f6e306] [cursor=pointer]:
+                - /url: https://maps.app.goo.gl/4XPbgPfk1syhn4Ae7
+              - text: "Monday to Friday: 9 am - 4:30 pmClosed for lunch from 12-1 pm"
+          - generic [ref=f6e307]:
+            - heading [level=3] [ref=f6e308]
+            - paragraph [ref=f6e310]:
+              - strong [ref=f6e311]: Memphis
+              - text: Phone
+              - link "901-896-0739" [ref=f6e312] [cursor=pointer]:
+                - /url: tel:901-896-0739
+              - text: Fax 844-689-5204
+              - link "806 Cooper St, Memphis, TN 38104" [ref=f6e313] [cursor=pointer]:
+                - /url: https://maps.app.goo.gl/5fxeTuanEAUbBzFm8
+              - text: Monday to Tuesday 12 pm – 8 pmWednesday to Friday 8 am – 4 pm
+          - generic [ref=f6e314]:
+            - heading [level=3] [ref=f6e315]:
+              - link "Contact" [ref=f6e316] [cursor=pointer]:
+                - /url: https://nashvillecares.jotform.com/251754258816061
+            - link "615-499-7406" [ref=f6e318] [cursor=pointer]:
+              - /url: tel:615-499-7406
+            - link [ref=f6e320] [cursor=pointer]:
+              - /url: mailto:email@example.com
+              - link "info@nashvillecares.org" [ref=f6e322]:
+                - /url: mailto:info@nashvillecares.org
+            - list [ref=f6e324]:
+              - listitem [ref=f6e325]:
+                - link [ref=f6e326] [cursor=pointer]:
+                  - /url: https://www.instagram.com/nashvillecares/
+              - listitem [ref=f6e332]:
+                - link [ref=f6e333] [cursor=pointer]:
+                  - /url: https://www.facebook.com/NashCARES/
+              - listitem [ref=f6e337]:
+                - link [ref=f6e338] [cursor=pointer]:
+                  - /url: https://twitter.com/nashvillecares
+              - listitem [ref=f6e342]:
+                - link [ref=f6e343] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/nashville-cares/mycompany
+              - listitem [ref=f6e348]:
+                - link [ref=f6e349] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@nashvillecares138
+      - generic [ref=f6e355]:
+        - generic [ref=f6e356]:
+          - generic [ref=f6e357]: This site contains HIV prevention messages that may not be appropriate for all audiences. If you are not seeking such information or may be offended by such materials, please exit this website.
+          - generic [ref=f6e358]:
+            - text: ©
+            - time [ref=f6e359]: "2026"
+            - text: CARES 360. All rights reserved.
+        - generic [ref=f6e361]:
+          - text: Site By
+          - link "The Roster" [ref=f6e362] [cursor=pointer]:
+            - /url: https://theroster.agency/
+          - text: .
