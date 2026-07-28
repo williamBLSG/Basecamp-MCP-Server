@@ -163,26 +163,72 @@ class BasecampClient:
             raise Exception(f"Failed to get project: {response.status_code} - {response.text}")
 
     # To-do list methods
-    def get_todoset(self, project_id):
-        """Get the todoset for a project (Basecamp 3 has one todoset per project)."""
-        project = self.get_project(project_id)
-        try:
-            return next(_ for _ in project["dock"] if _["name"] == "todoset")
-        except (IndexError, TypeError, StopIteration):
-            raise Exception(f"Failed to get todoset for project: {project.id}. Project response: {project}")
-    
-    def get_todolists(self, project_id):
-        """Get all todolists for a project."""
-        # First get the todoset ID for this project
-        todoset = self.get_todoset(project_id)
-        todoset_id = todoset['id']
+    def get_todosets(self, project_id):
+        """Get all active to-do sets for a project.
 
-        # Then get all todolists in this todoset
-        response = self.get(f'buckets/{project_id}/todosets/{todoset_id}/todolists.json')
-        if response.status_code == 200:
-            return response.json()
-        else:
-            raise Exception(f"Failed to get todolists: {response.status_code} - {response.text}")
+        Basecamp 3 normally gives a project a single todoset, but a project can
+        carry more than one "To-dos" tool in its dock. The default one is
+        sometimes disabled and empty (its todolists.json returns nothing) while
+        a second, enabled todoset holds the real lists. Return every enabled
+        todoset (falling back to all todosets if none are flagged enabled) so
+        callers see the same lists the Basecamp UI shows.
+        """
+        project = self.get_project(project_id)
+        dock = project.get("dock") if isinstance(project, dict) else None
+        todosets = [item for item in (dock or []) if item.get("name") == "todoset"]
+        if not todosets:
+            raise Exception(f"Failed to get todoset for project {project_id}. Project response: {project}")
+        enabled = [item for item in todosets if item.get("enabled")]
+        return enabled or todosets
+
+    def get_todoset(self, project_id):
+        """Get the primary to-do set for a project.
+
+        Prefers an enabled todoset (see get_todosets). Use when a single target
+        is required, e.g. creating a new list.
+        """
+        return self.get_todosets(project_id)[0]
+
+    def _get_todoset_todolists(self, project_id, todoset_id):
+        """All todolists in one todoset, following `page` pagination.
+
+        Basecamp paginates this endpoint (commonly 15 lists per page), so a
+        project with many lists would otherwise be silently truncated.
+        """
+        endpoint = f'buckets/{project_id}/todosets/{todoset_id}/todolists.json'
+        todolists = []
+        page = 1
+        while True:
+            response = self.get(endpoint, params={"page": page})
+            if response.status_code != 200:
+                raise Exception(f"Failed to get todolists: {response.status_code} - {response.text}")
+            page_items = response.json() or []
+            todolists.extend(page_items)
+            link_header = response.headers.get("Link", "")
+            has_next = 'rel="next"' in link_header if link_header else False
+            if not page_items or not has_next:
+                break
+            page += 1
+        return todolists
+
+    def get_todolists(self, project_id):
+        """Get all todolists for a project.
+
+        Aggregates paginated todolists across every active todoset, so projects
+        with more than one To-dos tool (or more than one page of lists) return
+        everything. Lists are de-duplicated by id in case a todoset appears more
+        than once in the dock.
+        """
+        seen_ids = set()
+        todolists = []
+        for todoset in self.get_todosets(project_id):
+            for todolist in self._get_todoset_todolists(project_id, todoset['id']):
+                todolist_id = todolist.get('id')
+                if todolist_id in seen_ids:
+                    continue
+                seen_ids.add(todolist_id)
+                todolists.append(todolist)
+        return todolists
 
     def get_todolist(self, project_id, todolist_id):
         """Get a specific todolist."""
