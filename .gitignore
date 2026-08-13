@@ -69,3 +69,11 @@ reference/
 local_queries/
 
 AGENTS.md
+
+# Local working files, data exports, and scratch output
+ybr-roi/
+.playwright-mcp/
+*.docx
+*.xlsx
+*.csv
+Basecamp_Task_Writer_*.md
